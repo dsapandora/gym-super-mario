@@ -1,3 +1,5 @@
+![screenshot](https://raw.github.com/justinmeister/Mario-Level-1/master/screenshot.png)
+
 # Install pip
 sudo apt-get install python-pip
 
