@@ -4,7 +4,7 @@
 sudo apt-get install python-pip
 
 # Create virtual env
-virtualenv lab_1_env
+virtualenv -p python3 lab_1_env
 
 # Change the virtualenv
 source lab_1_env/bin/activate
